@@ -17,13 +17,13 @@ Lp | Temat | Grupa 1 | Grupa 2 | Prowadzący | Uwagi
 3 | Intellij  | ? | ? | MD |
 4 | Functional programming + Refactor to Java8+ | ? | ? | MD |
 5 | Project concept | ? | ? | ZN+MD |
-6 | JUnit  | ? | ? | Support |
-7 | Mockito | ? | ? | Support |
-8 | Spring 1 | ? | ? | Support |
-9 | Spring 2 | ? | ? | Support | 
-10 | Design Patterns | ? | ? | Support |
+6 | Spring 1  | ? | ? | PG+MK |
+7 | Spring 2 | ? | ? | PG+MK |
+8 | JUnit + AssertJ | ? | ? | PD |
+9 | Mockito (+ Spock i ew. testy mutacyjne) | ? | ? | MG | 
+10 | Design Patterns | ? | ? | MG |
 11 | Middle project check | ? | ? | ZN+MD |
-12 | Generics | ? | ? | Support |
+12 | Generics | ? | ? | PD |
 13 | Microservice | ? | ? | ZN |
 14 | RxJava | ? | ? | MD |
 15 | Final project check | ? | ? | ZN+MD |
