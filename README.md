@@ -1,4 +1,4 @@
-## Kontener prezentacji dla przedmiotu Zaawansowane Zagadnienia Programowania w Javie - Edycja 2019
+## Kontener prezentacji dla przedmiotu Zaawansowane Zagadnienia Programowania w Javie - Edycja 2020
 
 ### Prowadzący 
 - Michal Dubel (Michal.Dubel@ttpsc.pl)
@@ -12,21 +12,21 @@
 ### Ramowy plan zajęć: 
 Lp | Temat | Grupa 1 | Grupa 2 | Prowadzący | Uwagi
 --- | --- | --- | --- | --- | --- 
-1 | Git/Maven/ 5-6 zadan praktycznych - zorientowanie się poziomem | ? | ? | ZN |
-2 | Clean code + SOLID | ? | ? | ZN |
-3 | Intellij  | ? | ? | MD |
-4 | Functional programming + Refactor to Java8+ | ? | ? | MD |
-5 | Project concept | ? | ? | ZN+MD |
-6 | Spring 1  | ? | ? | PG+MK |
-7 | Spring 2 | ? | ? | PG+MK |
-8 | JUnit + AssertJ | ? | ? | PD |
-9 | Mockito (+ Spock i ew. testy mutacyjne) | ? | ? | MG | 
-10 | Design Patterns | ? | ? | MG |
-11 | Middle project check | ? | ? | ZN+MD |
-12 | Generics | ? | ? | PD |
-13 | Microservice | ? | ? | ZN |
-14 | RxJava | ? | ? | MD |
-15 | Final project check | ? | ? | ZN+MD |
+1 | Wprowadzenie/Git/Maven | 3.03 | 4.04 | ZN | [Zadania do wykonania](https://github.com/zzpj/pl-java2020/blob/master/Git-Maven.md)
+2 | Clean code + SOLID | 10.03 | 11.03 | ZN |
+3 | IntelliJ  | 17.03 | 18.03 | MD |
+4 | Functional programming + Refactor to Java8+ | 24.03 | 25.03 | MD |
+5 | Project concept | 31.03 | 1.04 | ZN+MD |
+6 | Spring 1  | 7.04 | 15.04 | PG+MK | ferie wiosenne
+7 | Spring 2 | 21.04 | 22.04 | PG+MK |
+8 | JUnit + AssertJ | 28.04 | 29.04 | PD |
+9 | Mockito (+ Spock i ew. testy mutacyjne) | 5.05 | 6.05 | MG | 
+10 | Design Patterns | 12.05 | 13.05 | MG |
+11 | Middle project check | 19.05 | 20.05 | ZN+MD |
+12 | Microservice | 26.05 | 27.05 | ZN |
+13 | Generics | 2.06 | 3.06 | PD |
+14 | RxJava | 9.06 | 10.06 | MD |
+15 | Final project check | 16.06 | 17.06 | ZN+MD |
 
 
 ### Zaliczenie:

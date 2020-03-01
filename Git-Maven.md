@@ -4,7 +4,7 @@
 - Install newest Java (JDK 13): [jdk13](https://www.oracle.com/java/technologies/javase-jdk13-downloads.html)
 - Set environment variable: *JAVA_HOME* in your operating system
 - Using command line or terminal, type: *java -version*
-- ![](https://github.com/zzpj/pl-java2020/blob/master/java_config_13.jpg "Logo Title Text 1")
+- ![](https://github.com/zzpj/pl-java2020/blob/master/java_config_13.jpg "xD")
 
 
 **Task 2 - Git**
