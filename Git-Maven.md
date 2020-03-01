@@ -49,7 +49,7 @@
 - First `dev` profile is for developing purposes and reads `config.dev.properties` file 
 - Second `prod` profile is for release purpose and reads `config.prod.properties` file
 - Third properties file should be named: `config.properties`
-    - All useful code snippets could be found [here](https://github.com/zzpj/pl-java2019/blob/master/maven-helpful-snippets.md) 
+    - All useful code snippets could be found [here](https://github.com/zzpj/pl-java2020/blob/master/maven-helpful-snippets.md) 
 
 
 
