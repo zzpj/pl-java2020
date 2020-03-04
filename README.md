@@ -3,6 +3,7 @@
 ### Prowadzący 
 - Michal Dubel (Michal.Dubel@ttpsc.pl)
 - Zbyszko Natkanski (ZbyszkoNatkanski@gmail.com)
+- Anna Śniegula (AnnaSniegula@dokt.p.lodz.pl)
 
 ### Organizacja zajęć:
 - Krótki wykład – przedstawienie problemu, rozwiązania lub technologii
