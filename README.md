@@ -1,5 +1,11 @@
 ## Kontener prezentacji dla przedmiotu Zaawansowane Zagadnienia Programowania w Javie - Edycja 2020
 
+---
+#### W związku z dość niecodzienną sytuacją pracujemy nad przygotowaniem i przeprowadzeniem zajęc w formie elearningu.
+#### Wkrótce opublikujemy i roześlemy do Was korespondencję z nowym terminarzem zajęć i dokładną informacją w jakiej formie będą one prowadzone. 
+#### Bądźcie zdrowi! 
+---
+
 ### Prowadzący 
 - Michal Dubel (Michal.Dubel@ttpsc.pl)
 - Zbyszko Natkanski (ZbyszkoNatkanski@gmail.com)
@@ -15,7 +21,7 @@ Lp | Temat | Grupa 1 | Grupa 2 | Prowadzący | Uwagi
 --- | --- | --- | --- | --- | --- 
 1 | Wprowadzenie/Git/Maven | 3.03 | 4.04 | ZN | [Zadania do wykonania](https://github.com/zzpj/pl-java2020/blob/master/Git-Maven.md)
 2 | Clean code + SOLID | 10.03 | 11.03 | ZN | [Zadania do wykonania](https://github.com/zzpj/solid2020)
-3 | IntelliJ  | 17.03 | 18.03 | MD |
+3 | IntelliJ  | 17.03 | 18.03 | MD | Zajęcia odwołane - nowy termin już wkrótce
 4 | Functional programming + Refactor to Java8+ | 24.03 | 25.03 | MD |
 5 | Project concept | 31.03 | 1.04 | ZN+MD |
 6 | Spring 1  | 7.04 | 15.04 | PG+MK | ferie wiosenne
