@@ -1,11 +1,5 @@
 ## Kontener prezentacji dla przedmiotu Zaawansowane Zagadnienia Programowania w Javie - Edycja 2020
 
----
-#### W związku z dość niecodzienną sytuacją pracujemy nad przygotowaniem i przeprowadzeniem zajęc w formie elearningu.
-#### Wkrótce opublikujemy i roześlemy do Was korespondencję z nowym terminarzem zajęć i dokładną informacją w jakiej formie będą one prowadzone. 
-#### Bądźcie zdrowi! 
----
-
 ### Prowadzący 
 - Michal Dubel (Michal.Dubel@ttpsc.pl)
 - Zbyszko Natkanski (ZbyszkoNatkanski@gmail.com)
