@@ -16,8 +16,8 @@ Lp | Temat | Grupa 1 | Grupa 2 | Prowadzący | Uwagi
 1 | Wprowadzenie/Git/Maven | 3.03 | 4.04 | ZN | [Zadania do wykonania](https://github.com/zzpj/pl-java2020/blob/master/Git-Maven.md)
 2 | Clean code + SOLID | 10.03 | 11.03 | ZN | [Zadania do wykonania](https://github.com/zzpj/solid2020)
 3 | ~IntelliJ~  | ~17.03~ | ~18.03~ | ~MD~ | Zajęcia odwołane - nowy termin **25.03 godz. 8:00**
-4 | IntelliJ | **25.03** | **25.03** | MD | (Spotkanie online MS Teams godz. 8.00) *
-5 | Functional programming + Refactor to Java8+ | 1.04 | 1.04 | MD+AŚ | (Spotkanie online MS Team) *
+4 | IntelliJ | **25.03** | **25.03** | MD | (Spotkanie online MS Teams godz. 8.00) 
+5 | Functional programming + Refactor to Java8+ | 1.04 | 1.04 | MD+AŚ | (Spotkanie online MS Team) 
 6 | Spring 1  | **15.04** | **15.04** | PG+MK | (Spotkanie online MS Team) /ferie wiosenne
 7 | Spring 2 | 22.04 | 22.04 | PG+MK |
 8 | JUnit + AssertJ | 28.04 | 29.04 | PD |
@@ -29,7 +29,7 @@ Lp | Temat | Grupa 1 | Grupa 2 | Prowadzący | Uwagi
 14 | RxJava | 9.06 | 10.06 | MD |
 15 | Final project check | 16.06 | 17.06 | ZN+MD |
 
-### UWAGA: Najnowsze materiały i linki do spotkań online można znaleźć na platformie WIKAMP
+### UWAGA: Najnowsze materiały oraz linki do spotkań online można znaleźć na platformie WIKAMP
 
 
 ### Zaliczenie:
