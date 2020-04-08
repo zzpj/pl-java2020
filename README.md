@@ -15,9 +15,10 @@ Lp | Temat | Grupa 1 | Grupa 2 | Prowadzący | Uwagi
 --- | --- | --- | --- | --- | --- 
 1 | Wprowadzenie/Git/Maven | 3.03 | 4.04 | ZN | [Zadania do wykonania](https://github.com/zzpj/pl-java2020/blob/master/Git-Maven.md)
 2 | Clean code + SOLID | 10.03 | 11.03 | ZN | [Zadania do wykonania](https://github.com/zzpj/solid2020)
-3 | ~IntelliJ~  | ~17.03~ | ~18.03~ | ~MD~ | Zajęcia odwołane - nowy termin **25.03 godz. 8:00**
-4 | IntelliJ | **25.03** | **25.03** | MD | (Spotkanie online MS Teams godz. 8.00) 
-5 | Functional programming + Refactor to Java8+ | 1.04 | 1.04 | MD+AŚ | (Spotkanie online MS Team godz. 8:00) 
+- | ~IntelliJ~  | ~17.03~ | ~18.03~ | ~MD~ | Zajęcia odwołane - nowy termin **25.03 godz. 8:00**
+3 | IntelliJ | **25.03** | **25.03** | MD | (Spotkanie online MS Teams godz. 8.00) 
+4 | Functional programming + Refactor to Java8+ | 1.04 | 1.04 | MD+AŚ | (Spotkanie online MS Teams godz. 8:00) 
+5 | Przedstawienie konceptu projektu | 8.04 | 8.04 | MD+ZN | Spotkanie online MS Teams godz. 8:00) 
 6 | Spring 1  | **15.04** | **15.04** | PG+MK | (Spotkanie online MS Team godz. 8:00) /ferie wiosenne
 7 | Spring 2 | 22.04 | 22.04 | PG+MK |
 8 | JUnit + AssertJ | 28.04 | 29.04 | PD |
