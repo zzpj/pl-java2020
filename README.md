@@ -20,11 +20,11 @@ Lp | Temat | Grupa 1 | Grupa 2 | Prowadzący | Uwagi
 4 | Functional programming + Refactor to Java8+ | 1.04 | 1.04 | MD+AŚ | (Spotkanie online MS Teams godz. 8:00) 
 5 | Przedstawienie konceptu projektu | 8.04 | 8.04 | MD+ZN | (Spotkanie online MS Teams godz. 8:00) 
 6 | Spring 1  | **15.04** | **15.04** | PG+MK | (Spotkanie online MS Team godz. 8:00) /ferie wiosenne
-7 | Spring 2 | 22.04 | 22.04 | PG+MK |
-8 | JUnit + AssertJ | 28.04 | 29.04 | PD |
-9 | Mockito (+ Spock i ew. testy mutacyjne) | 5.05 | 6.05 | MG | 
-10 | Design Patterns | 12.05 | 13.05 | MG |
-11 | Middle project check | 19.05 | 20.05 | ZN+MD |
+7 | Spring 2 | 22.04 | 22.04 | PG+MK | (Spotkanie online MS Team godz. 8:00) 
+8 | JUnit + AssertJ | 28.04 | 29.04 | PD | (Spotkanie online MS Team godz. 8:00) 
+9 | Mockito (+ Spock i ew. testy mutacyjne) | 6.05 | 6.05 | MG | (Spotkanie online MS Team godz. 8:00) 
+10 | Design Patterns | 13.05 | 13.05 | MG | (Spotkanie online MS Team godz. 8:00) 
+11 | Middle project check | 19.05 | 20.05 | ZN+MD | (Spotkanie online MS Team godz. 8:00) 
 12 | Microservice | 26.05 | 27.05 | ZN |
 13 | Generics | 2.06 | 3.06 | PD |
 14 | RxJava | 9.06 | 10.06 | MD |
