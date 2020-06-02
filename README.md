@@ -25,10 +25,10 @@ Lp | Temat | Grupa 1 | Grupa 2 | Prowadzący | Uwagi
 9 | Mockito (+ Spock i ew. testy mutacyjne) | 6.05 | 6.05 | MG | (Spotkanie online MS Team godz. 8:00) 
 10 | Design Patterns | 13.05 | 13.05 | MG | (Spotkanie online MS Team godz. 8:00) 
 11 | Middle project check | 19.05 | 20.05 | ZN+MD | (Spotkanie online MS Team - proszę zapisywać się na konsultacje przez platformę WIKAMP) 
-12 | Microservice | 27.05 | 27.05 | ZN |
-13 | Generics | 2.06 | 3.06 | PD |
-14 | RxJava | 9.06 | 10.06 | MD |
-15 | Final project check | 16.06 | 17.06 | ZN+MD |
+12 | Microservice | 27.05 | 27.05 | ZN | (Spotkanie online MS Team godz. 8:00) 
+13 | Generics | 2.06 | 3.06 | PD | (Spotkanie online MS Team godz. 8:00) 
+14 | RxJava | 9.06 | 10.06 | MD | (Spotkanie online MS Team godz. 8:00) 
+15 | Final project check | 16.06 | 17.06 | ZN+MD | (Spotkanie online MS Team)
 
 ### UWAGA: Najnowsze materiały oraz linki do spotkań online można znaleźć na platformie WIKAMP
 
